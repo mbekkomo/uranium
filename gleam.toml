@@ -4,7 +4,6 @@ version = "0.1.0"
 description = "Simple terminfo parser for Gleam"
 licences = ["MIT"]
 repository = { type = "github", user = "mbekkomo", repo = "uranium" }
-links = [{ title = "Website", href = "" }]
 
 [dependencies]
 gleam_stdlib = ">= 0.44.0 and < 2.0.0"
